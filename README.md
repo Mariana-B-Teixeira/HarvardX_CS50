@@ -81,4 +81,4 @@ Este repositório representa meu compromisso com a prática constante, a evoluç
 
 ---
 
-⭐ Projeto desenvolvido por Mariana B. Teixeira
+⭐ desenvolvido por Mariana B. Teixeira
